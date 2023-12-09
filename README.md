@@ -14,6 +14,7 @@
 
  ## Techonology I work with
 
+ <div>
  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" width="100" height="100">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" width="90" height="90">
  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--6ebjy0LI--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dxy1c2bvl6odeo52dodk.jpg" width="90" height="90">
@@ -22,5 +23,5 @@
  <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" width="90" height="90">
  <img src="https://seeklogo.com/images/N/nodejs-logo-D26404F360-seeklogo.com.png?v=638179441440000000" width="90" height="90">
  <img src="https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png" width="90" height="90">
+ </div>
 
- 
