@@ -1,7 +1,8 @@
 <style>
 
     .align{
-        margin : auto 0px;
+        display : flex;
+        justify-content: center;
     }
 
 </style>
