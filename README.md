@@ -1,3 +1,15 @@
+<style>
+
+    .align{
+        margin : auto 0px;
+    }
+
+</style>
+
+
+
+
+
 ## Hi There
 
 ![The San Juan Mountains are beautiful!](/images/banner.png "San Juan Mountains")
@@ -27,5 +39,7 @@
 
  ## Status
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shatab99&theme=dark&hide_border=true&border_radius=7.2)](https://git.io/streak-stats)
+<div class='align'>
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shatab99&theme=dark&hide_border=true&border_radius=7.2" alt="GitHub Streak" /></a>
+</div>
 
