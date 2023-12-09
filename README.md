@@ -1,11 +1,4 @@
-<style>
 
-    .align{
-        display : flex;
-        justify-content: center;
-    }
-
-</style>
 
 
 
