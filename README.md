@@ -25,3 +25,7 @@
  <img src="https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png" width="90" height="90">
  </div>
 
+ ## Status
+
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shatab99&theme=dark&hide_border=true&border_radius=7.2)](https://git.io/streak-stats)
+
