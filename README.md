@@ -4,7 +4,7 @@
 
 
 
-## Hi There
+## Hi There, I am Backend Developer 🛠️ 
 
 ![The San Juan Mountains are beautiful!](/images/banner.png "San Juan Mountains")
  
@@ -12,9 +12,7 @@
  ## Overview
 
  <p>
-  I am MERN Stack developer . I usually work with <em><strong>React</strong></em> for front-end and <em><strong>express</strong></em> (framework of node js) for backend . For flexible query , I use <em><strong>mongoDb</strong></em> .
-
-  May be I am not a good technical person but I am always <em><strong>sincere</strong></em>  about my work and always try to maintain <em><strong> punctuality </strong></em>. Also I am a fast <em><strong>learner </strong></em>. 
+  Hello! I'm a passionate Backend Developer specializing in building scalable and efficient server-side applications using Express.js. I have extensive experience in crafting RESTful APIs, working with databases like MongoDB using Mongoose, and ensuring high-performance web applications.
  </p>
 
 
@@ -29,6 +27,8 @@
  <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" width="90" height="90">
  <img src="https://seeklogo.com/images/N/nodejs-logo-D26404F360-seeklogo.com.png?v=638179441440000000" width="90" height="90">
  <img src="https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png" width="90" height="90">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="90" height="90">
+ <img src="https://miro.medium.com/v2/resize:fit:1400/1*rL8Buu7o6jnG-TYV1WubeQ.png" width="160" height="90">
  </div>
 
  ## Status
@@ -37,3 +37,22 @@
  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shatab99&theme=dark&hide_border=true&border_radius=7.2" alt="GitHub Streak" /></a>
 </div>
 
+# Backend projects 
+
+### Online university management system  .
+<div>
+    <a href="https://github.com/Shatab99/Student-University-With-TS.git">Github</a></br>
+    <a href="https://student-university-with-ts.vercel.app/">Live Server</a>
+</div>
+
+### Online Bike Renting center .
+
+<div>
+    <a href="https://github.com/Shatab99/Bike-service-ts.git">Github</a> </br>
+    <a href="https://riding-bike.vercel.app/">Live Server</a></br>
+</div>
+<div>
+    </br>
+</div>
+
+# Full Stack Projects are pinned here 👇 
