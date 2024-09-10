@@ -37,7 +37,7 @@
 <div align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png" width="90" height="90">&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="90" height="90">&nbsp;&nbsp;&nbsp;&nbsp;
- <img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" width="90" height="90">
+ <img src="./images/Python-Logo.png" width="90" height="90">
 
 </div>
 
