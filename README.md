@@ -29,7 +29,7 @@
  <img src="https://seeklogo.com/images/N/nodejs-logo-D26404F360-seeklogo.com.png?v=638179441440000000" width="90" height="90">&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/redux-icon.png" width="90" height="90">&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png" width="90" height="90">&nbsp;&nbsp;&nbsp;&nbsp;
- <img src="./images/mongose-logo.png" width="160" height="90">&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="./images/mongose-logo.png" width="160" height="90">&nbsp;&nbsp;&nbsp;
  <img src="https://cdn.iconscout.com/icon/free/png-256/free-firebase-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-7-pack-icons-282796.png?f=webp" width="90" height="90">
  </div>
 
