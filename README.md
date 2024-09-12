@@ -4,7 +4,7 @@
 
 
 
-## Hi There, I am Backend Developer 🛠️ 
+## Hi There, I am Software Engineer 🛠️ 
 
 ![The San Juan Mountains are beautiful!](/images/banner.png "San Juan Mountains")
  
