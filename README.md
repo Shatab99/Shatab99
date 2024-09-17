@@ -12,7 +12,7 @@
  ## Overview
 
  <p>
-  Hello! I'm a passionate Backend Developer specializing in building scalable and efficient server-side applications using Express.js. I have extensive experience in crafting RESTful APIs, working with databases like MongoDB using Mongoose, and ensuring high-performance web applications.
+  Hello! I am a dedicated Software Engineer with nearly 2 years of experience in full-stack development, proficient in HTML, CSS, JavaScript, TypeScript, Node.js, Express, Mongoose, and React. I specialize in building scalable and efficient web applications with a focus on delivering exceptional user experiences. My experience spans both front-end and back-end development, and I’m passionate about solving complex problems and continuously learning new technologies to stay ahead in the fast-evolving tech landscape.
 
    <a href="https://portfolio-rouge-rho-16.vercel.app/" target="_blank">Learn more from my portfolio</a> 
  </p>
