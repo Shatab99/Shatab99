@@ -12,7 +12,7 @@
  ## Overview
 
  <p>
-  Hello! I am a dedicated Software Engineer with nearly 2 years of experience in full-stack development, proficient in HTML, CSS, JavaScript, TypeScript, Node.js, Express, Mongoose, and React. I specialize in building scalable and efficient web applications with a focus on delivering exceptional user experiences. My experience spans both front-end and back-end development, and I’m passionate about solving complex problems and continuously learning new technologies to stay ahead in the fast-evolving tech landscape.
+  Hello! I am a dedicated Software Engineer with nearly 2 years of experience in full-stack development, proficient in HTML, CSS, JavaScript, TypeScript, Node.js, Express, Mongoose,prisma, next and React. I specialize in building scalable and efficient web applications with a focus on delivering exceptional user experiences. My experience spans both front-end and back-end development, and I’m passionate about solving complex problems and continuously learning new technologies to stay ahead in the fast-evolving tech landscape.
 
    <a href="https://portfolio-rouge-rho-16.vercel.app/" target="_blank">Learn more from my portfolio</a> 
  </p>
@@ -31,6 +31,7 @@
  <img src="https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png" width="90" height="90">&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="./images/mongose-logo.png" width="160" height="90">&nbsp;&nbsp;&nbsp;
  <img src="https://cdn.iconscout.com/icon/free/png-256/free-firebase-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-7-pack-icons-282796.png?f=webp" width="90" height="90">
+ <img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" width="90" height="90">
  </div>
 
 
