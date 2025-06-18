@@ -32,6 +32,7 @@
  <img src="./images/mongose-logo.png" width="160" height="90">&nbsp;&nbsp;&nbsp;
  <img src="https://cdn.iconscout.com/icon/free/png-256/free-firebase-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-7-pack-icons-282796.png?f=webp" width="90" height="90">
  <img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" width="90" height="90">
+  <img src="https://static-00.iconduck.com/assets.00/postgresql-icon-1987x2048-v2fkmdaw.png" width="90" height="90">
  </div>
 
 
