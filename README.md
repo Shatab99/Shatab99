@@ -12,7 +12,7 @@
  ## Overview
 
  <p>
-  Hello! I am a dedicated Software Engineer with nearly 2 years of experience in full-stack development, proficient in HTML, CSS, JavaScript, TypeScript, Node.js, Express, Mongoose,prisma, next and React. I specialize in building scalable and efficient web applications with a focus on delivering exceptional user experiences. My experience spans both front-end and back-end development, and I’m passionate about solving complex problems and continuously learning new technologies to stay ahead in the fast-evolving tech landscape.
+  Hello! I am a dedicated Full Stack software engineer with 2 years of hands-on experience in building scalable, high-performance web applications. My core strength lies in backend development, where I specialize in crafting robust APIs, optimizing database performance, and ensuring secure and efficient server-side operations using TypeScript, JavaScript, Node.js, Express, Mongoose, and Prisma. On the frontend, I have solid experience with React, HTML/CSS, and Tailwind CSS, allowing me to build responsive, user-friendly interfaces that integrate seamlessly with backend systems. I enjoy working across the stack to deliver cohesive, end-to-end solutions.
 
    <a href="https://portfolio-rouge-rho-16.vercel.app/" target="_blank">Learn more from my portfolio</a> 
  </p>
