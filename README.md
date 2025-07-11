@@ -37,9 +37,7 @@
 
  ## Status
 
-<div align="center">
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shatab99&theme=dark&hide_border=true&border_radius=7.2" alt="GitHub Streak" /></a>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Shatab99)](https://git.io/streak-stats)
 
 # Backend projects 
 
