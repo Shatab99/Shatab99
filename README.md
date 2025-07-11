@@ -31,16 +31,9 @@
 
 ## 💼 Experience
 
-### 🏢 ERCAP (USA) — *Software Engineering Intern*  
-📍 Remote | 🗓️ May 2024 – June 2024  
-Worked on remote web-based systems and contributed to backend and frontend tasks, gaining practical experience in real-world software projects.
+### 🏢 ERCAP (USA) — *Software Engineering Intern*  [📍 Remote | 🗓️ May 2024 – June 2024 ] 
 
----
-
-### 🏢 ClooudGen — *Full Stack Software Engineer*  
-📍 Remote | 🗓️ December 2024 – May 2025  
-Developed scalable full stack applications using React, Node.js, and MongoDB. Handled API development, database design, and frontend integration in a remote, agile team environment.
-
+### 🏢 ClooudGen — *Full Stack Software Engineer*  [📍 Remote | 🗓️ December 2024 – May 2025  ]
 
 ---
 
