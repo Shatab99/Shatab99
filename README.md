@@ -31,9 +31,9 @@
 
 ## 💼 Experience
 
-#### 🏢 ERCAP (USA) — *Software Engineering Intern*  ##### [📍 Remote | 🗓️ May 2024 – June 2024 ] 
+#### 🏢 ERCAP (USA) — *Software Engineering Intern*   [📍 Remote | 🗓️ May 2024 – June 2024 ] 
 
-#### 🏢 ClooudGen — *Full Stack Software Engineer*  ##### [📍 Remote | 🗓️ December 2024 – May 2025  ]
+#### 🏢 ClooudGen — *Full Stack Software Engineer*   [📍 Remote | 🗓️ December 2024 – May 2025  ]
 
 ---
 
