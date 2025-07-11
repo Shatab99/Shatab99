@@ -1,6 +1,8 @@
 ## Hi There, I am Software Engineer 🛠️ 
 
-![The San Juan Mountains are beautiful!](/images/banner.png "San Juan Mountains")
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mdshahriarshatab&label=Profile%20views&color=0e75b6&style=flat" alt="mdshahriarshatab" />
+</p>
  
 
  ## Overview
