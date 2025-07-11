@@ -1,6 +1,6 @@
 ## Hi There, I am Software Engineer 🛠️ 
 
-[](images/banner.png)
+![Me](./images/banner.png)
  
 
  ## Overview
