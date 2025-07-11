@@ -1,8 +1,6 @@
 ## Hi There, I am Software Engineer 🛠️ 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdshahriarshatab&label=Profile%20views&color=0e75b6&style=flat" alt="mdshahriarshatab" />
-</p>
+[](images/banner.png)
  
 
  ## Overview
