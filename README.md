@@ -21,10 +21,7 @@
  ## Techonology I work with
 
 <div>
- <ul>
-  <li>HTML</li>
-  <li>CSS</li>
- </ul>
+<table> <tr> <td><strong>Backend</strong></td> <td> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> </td> </tr> <tr> <td><strong>Frontend</strong></td> <td> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> </td> </tr> <tr> <td><strong>Database & ORM</strong></td> <td> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" /> <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/TypeORM-CB3837?style=for-the-badge&logo=typeorm&logoColor=white" /> <img src="https://img.shields.io/badge/Knex.js-FFDB4D?style=for-the-badge&logoColor=black" /> </td> </tr> <tr> <td><strong>Auth & BaaS</strong></td> <td> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> </td> </tr> </table>
  </div>
 
 
