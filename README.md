@@ -23,6 +23,7 @@
             <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
             <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
             <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+            <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
         </td>
     </tr>
     <tr>
@@ -34,10 +35,16 @@
         </td>
     </tr>
     <tr>
-        <td><strong>Database & ORM</strong></td>
+        <td><strong>Database</strong></td>
         <td>
+            <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
             <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
             <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+        </td>
+    </tr>
+    <tr>
+        <td><strong>Database & ORM</strong></td>
+        <td>
             <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
             <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logoColor=white" />
             <img src="https://img.shields.io/badge/TypeORM-CB3837?style=for-the-badge&logo=typeorm&logoColor=white" />
@@ -58,6 +65,8 @@
     <img src="https://img.shields.io/badge/Terminus-222222?style=for-the-badge&logo=gnometerminal&logoColor=white" />
     <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
     <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   </td>
 </tr>
 
