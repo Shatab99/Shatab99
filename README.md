@@ -59,7 +59,7 @@
         </td>
     </tr>
 <tr>
-  <td><strong>Cloud Tools</strong></td>
+  <td><strong>Cloud & Tools</strong></td>
   <td>
     <img src="https://img.shields.io/badge/VPS-003366?style=for-the-badge&logo=cloud&logoColor=white" />
     <img src="https://img.shields.io/badge/Terminus-222222?style=for-the-badge&logo=gnometerminal&logoColor=white" />
