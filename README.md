@@ -62,12 +62,11 @@
 <tr>
   <td><strong>Cloud & Tools</strong></td>
   <td>
-    <img src="https://img.shields.io/badge/VPS-003366?style=for-the-badge&logo=cloud&logoColor=white" />
-    <img src="https://img.shields.io/badge/Terminus-222222?style=for-the-badge&logo=gnometerminal&logoColor=white" />
-    <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
-    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+    <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+    <img src="https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" />
   </td>
 </tr>
 
