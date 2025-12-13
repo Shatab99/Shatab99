@@ -1,14 +1,20 @@
 ## Hi There, I am Software Engineer 🛠️ 
 
-![Me](./images/card2.jpg)
+![Me](./images/2.png)
  
 
  ## Overview
+```bash
+-> FOCUS:           Backend Scalability & API Security.
+-> PHILOSOPHY:      Code that solves the problem, stripped of the fluff.
+-> CURRENT_MISSION: Solving real-time engineering hurdles.
+
+# I bring 2 years of hands-on experience in TypeScript, Node.js, and 
+# Database Optimization to build infrastructure that holds up under pressure.
+```
 
  <p>
-  Hello! I am a dedicated Full Stack software engineer with 2 years of hands-on experience in building scalable, high-performance web applications. My core strength lies in backend development, where I specialize in crafting robust APIs, optimizing database performance, and ensuring secure and efficient server-side operations using TypeScript, JavaScript, Node.js, Express, Mongoose, and Prisma. On the frontend, I have solid experience with React, HTML/CSS, and Tailwind CSS, allowing me to build responsive, user-friendly interfaces that integrate seamlessly with backend systems. I enjoy working across the stack to deliver cohesive, end-to-end solutions.
-
-   <a href="https://portfolio-rouge-rho-16.vercel.app/" target="_blank">Learn more from my portfolio</a> 
+   <a href="https://www.shatab.me/" target="_blank">Learn more from my portfolio</a> 
  </p>
 
 ---
