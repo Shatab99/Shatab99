@@ -5,12 +5,16 @@
 
  ## Overview
 ```bash
--> FOCUS:           Backend Scalability & API Security.
--> PHILOSOPHY:      Code that solves the problem, stripped of the fluff.
--> CURRENT_MISSION: Solving real-time engineering hurdles.
+## Overview
 
-# I bring 2 years of hands-on experience in TypeScript, Node.js, and 
-# Database Optimization to build infrastructure that holds up under pressure.
+-> FOCUS:           Scalable Architecture, AI Integration & Cloud Security.
+-> PHILOSOPHY:      Code that solves the problem, stripped of the fluff.
+-> CURRENT_MISSION: Architecting intelligent, high-performance systems.
+
+# I bring 2.5 years of hands-on experience bridging robust backend engineering 
+# (Node.js/TypeScript) with modern AI solutions (FastAPI/RAG). I build, deploy, 
+# and secure infrastructure that holds up under pressure using Docker, Kubernetes, 
+# and strict VPC networking.
 ```
 
  <p>
@@ -73,7 +77,18 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-    <img src="https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" />
+    <img src="https://img.shields.io/badge/S3%20bucket-FF9900?style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/VPC%20Networking-0073B1?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  </td>
+</tr>
+<tr>
+  <td><strong>AI & Vector Database</strong></td>
+  <td>
+    <img src="https://img.shields.io/badge/Ollama-430098?style=for-the-badge&logo=ollama&logoColor=white" />
+    <img src="https://img.shields.io/badge/Zilliz-FF6B35?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/ChromaDB-6366F1?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Qdrant-6C63FF?style=for-the-badge&logoColor=white" />
   </td>
 </tr>
 
