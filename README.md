@@ -1,4 +1,4 @@
-## Hi There, I am Software Engineer 🛠️ 
+## Hi There, I am Software Engineer - Web3 Developer 🛠️ 
 
 ![Me](./images/2.png)
  
@@ -100,6 +100,16 @@
     <img src="https://img.shields.io/badge/Qdrant-6C63FF?style=for-the-badge&logoColor=white" />
   </td>
 </tr>
+<tr>
+  <td><strong>Web3 & Blockchain</strong></td>
+  <td>
+        <img src="https://img.shields.io/badge/Alchemy-0F3FFF?style=for-the-badge&logo=alchemy&logoColor=white" />
+        <img src="https://img.shields.io/badge/Infura-2F80ED?style=for-the-badge&logo=infura&logoColor=white" />
+        <img src="https://img.shields.io/badge/Remix.io-000000?style=for-the-badge&logo=remix&logoColor=white" />
+        <img src="https://img.shields.io/badge/Sepolia%20Testnet-E2761B?style=for-the-badge&logo=ethereum&logoColor=white" />
+        <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white" />
+  </td>
+</tr>
 
 </table>
 </div>
@@ -113,6 +123,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 ## 💼 Experience
 
