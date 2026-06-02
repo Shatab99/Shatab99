@@ -127,7 +127,7 @@
 
 #### 🏢 ERPCAP (USA) — *Project Intern*   [📍 Remote | 🗓️ May 2024 – June 2024 ] 
 
-#### 🏢 ClooudGen — *Full Stack Software Engineer*   [📍 Remote | 🗓️ December 2024 – May 2025  ]
+#### 🏢 ClooudGen — *Full Stack Software Engineer*   [📍 Remote | 🗓️ July 2024 – May 2025  ]
 #### 🏢 SM-Technology — *Backend Engineer*   [📍 On-site | 🗓️ June 2025 – August 2025  ]
 #### 🏢 Infolect Group(USA) — *Full Stack Software Engineer*   [📍 Remote | 🗓️ September 2025 – Running  ]
 
