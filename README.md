@@ -18,7 +18,7 @@
 ```
 
  <p>
-   <a href="https://www.shatab.me/" target="_blank">Learn more from my portfolio</a> 
+   <a href="https://shatab.me/" target="_blank">Learn more from my portfolio</a> 
    or mail me at <a href="mailto:contact@shatab.me" target="_blank">contact@shatab.me</a>
  </p>
 
