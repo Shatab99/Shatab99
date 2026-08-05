@@ -11,7 +11,7 @@
 -> PHILOSOPHY:      Code that solves the problem, stripped of the fluff.
 -> CURRENT_MISSION: Architecting intelligent, high-performance systems.
 
-# I bring 2.5 years of hands-on experience bridging robust backend engineering 
+# I bring 3 years of hands-on experience bridging robust backend engineering 
 # (Node.js/TypeScript) with modern AI solutions (FastAPI/RAG). I build, deploy, 
 # and secure infrastructure that holds up under pressure using Docker, Kubernetes, 
 # and strict VPC networking.
